@@ -1,0 +1,22 @@
+/* SearchResults.css */
+.search-results-container {
+    margin-top: 20px;
+  }
+  
+  .search-results-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .search-result-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .search-result-item:last-child {
+    margin-bottom: 0;
+  }
+  

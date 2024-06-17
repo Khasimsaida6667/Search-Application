@@ -1,0 +1,28 @@
+/* FileUpload.css */
+.file-upload-container {
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .file-upload-container:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .file-upload-input {
+    display: none;
+  }
+  
+  .file-upload-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .file-upload-icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
